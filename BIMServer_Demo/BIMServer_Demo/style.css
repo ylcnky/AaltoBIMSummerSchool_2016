@@ -1,0 +1,55 @@
+@font-face{font-family:"Raleway-Regular";src:url("font/Raleway-Regular.ttf")}
+@font-face{font-family:"Raleway-Thin";src:url("font/Raleway-Thin.ttf")}
+@font-face{font-family:"Raleway-Medium";src:url("font/Raleway-Medium.ttf")}
+@font-face{font-family:"Raleway-Bold";src:url("font/Raleway-Bold.ttf");font-weight:bold}
+@font-face{font-family:"Raleway-BlackItalic";src:url("font/Raleway-BlackItalic.ttf");font-style:italic}
+@font-face{font-family:"Raleway-BoldItalic";src:url("font/Raleway-BoldItalic.ttf");font-weight:bold;font-style:italic}
+@font-face{font-family:"NotoSans";src:url("font/NotoSans-Regular.ttf")}
+
+html, body{
+  font-family: 'Raleway-Thin'
+}
+
+#login {
+  border: 1px solid #19B5FE;
+  border-radius: 8px;
+  width: 110px;
+  height: 40px;
+  font-size: 14px;
+  background: #ffffff;
+  font-family: 'Raleway-Regular';
+  color: #19B5FE
+}
+
+#createProject {
+  border: 1px solid #19B5FE;
+  border-radius: 8px;
+  width: 110px;
+  height: 40px;
+  font-size: 14px;
+  background: #ffffff;
+  font-family: 'Raleway-Regular';
+  color: #19B5FE
+}
+
+#serializer {
+  border: 1px solid #19B5FE;
+  border-radius: 8px;
+  width: 110px;
+  height: 40px;
+  font-size: 14px;
+  background: #ffffff;
+  font-family: 'Raleway-Regular';
+  color: #19B5FE
+}
+
+#upload {
+  border: 1px solid #19B5FE;
+  border-radius: 8px;
+  width: 110px;
+  height: 40px;
+  font-size: 14px;
+  background: #ffffff;
+  font-family: 'Raleway-Regular';
+  color: #19B5FE
+}
